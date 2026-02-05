@@ -1,24 +1,25 @@
-# Hi, I'm Sthefany
+# Hi, I'm Sthefany 
 
-IT Operations Analyst with 5+ years of experience improving processes, organizing workflows, and supporting business operations.
+IT Operations & Business Process Analyst focused on improving workflows, documentation, and service delivery.
 
-## Core Skills
-- IT Operations & Service Delivery
-- Business Process Improvement
-- Jira Metrics & Reporting
-- Documentation & SOPs
-- Excel & Data Analysis
-- Administrative & Office Coordination
+I transform messy operations into clear processes.
 
-## What I build
-- Operational playbooks
-- Process documentation
-- Productivity dashboards
-- Automation scripts
-- Templates & checklists
+## Skills
+• IT Operations  
+• Business Process Improvement  
+• Jira & Metrics Analysis  
+• Documentation (SOPs & Playbooks)  
+• Excel & Reporting  
+• Administrative & Project Coordination  
 
-## Career Goal
-Seeking Operations, Business Systems, or Administrative roles in Canada (LMIA/Work Permit supported).
+## Portfolio
+Check my repositories to see:
+• IT Operations Playbooks  
+• Productivity Dashboards  
+• Automation Scripts  
+• Documentation Templates  
 
-## Connect with me
+## Goal
+Open to Operations / Business Systems / Administrative opportunities in Canada (LMIA supported).
+
 LinkedIn: https://www.linkedin.com/in/sthefany-lemos-711bbb271/
